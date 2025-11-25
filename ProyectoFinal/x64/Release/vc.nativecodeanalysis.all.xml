@@ -1,0 +1,952 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Camera.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Camera::turnSpeed" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Camera::turnSpeed</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Camera.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Camera::moveSpeed" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Camera::moveSpeed</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Camera.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Camera::pitch" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Camera::pitch</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Camera.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Camera::front" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Camera::front</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Camera.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Camera::yaw" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Camera::yaw</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Camera.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Camera::right" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Camera::right</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Camera.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Camera::position" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Camera::position</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Camera.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Camera::worldUp" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Camera::worldUp</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Camera.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Camera::up" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Camera::up</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Model.cpp</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6271</DEFECTCODE>
+    <DESCRIPTION>Argumento adicional pasado a 'printf'.</DESCRIPTION>
+    <FUNCTION>Model::LoadModel</FUNCTION>
+    <DECORATED>?LoadModel@Model@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>6963</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>La función usa '35036' bytes de pila.  Considere la posibilidad de mover algunos datos al montón.</DESCRIPTION>
+    <FUNCTION>stbi__load_gif_main</FUNCTION>
+    <DECORATED>?stbi__load_gif_main@@YAPEAXPEAUstbi__context@@PEAPEAHPEAH222H@Z</DECORATED>
+    <FUNCLINE>6963</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>7048</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>La función usa '34980' bytes de pila.  Considere la posibilidad de mover algunos datos al montón.</DESCRIPTION>
+    <FUNCTION>stbi__gif_load</FUNCTION>
+    <DECORATED>?stbi__gif_load@@YAPEAXPEAUstbi__context@@PEAH11HPEAUstbi__result_info@@@Z</DECORATED>
+    <FUNCLINE>7048</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>definition.h</FILENAME>
+      <LINE>18</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "_VertexColor::color" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>_VertexColor::{ctor}</FUNCTION>
+    <DECORATED>??0_VertexColor@@QEAA@XZ</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>_VertexColor::color</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>definition.h</FILENAME>
+      <LINE>18</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "_VertexColor::position" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>_VertexColor::{ctor}</FUNCTION>
+    <DECORATED>??0_VertexColor@@QEAA@XZ</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>_VertexColor::position</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformSpotLight" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformSpotLight</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformSpecularIntensity" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformSpecularIntensity</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformDirectionalLight" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformDirectionalLight</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformPointLight" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformPointLight</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformSpotLightCount" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformSpotLightCount</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformShininess" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformShininess</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformPointLightCount" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformPointLightCount</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformView" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformView</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformEyePosition" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformEyePosition</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>103</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>106</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>109</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>112</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>115</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>118</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>121</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>131</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>134</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>137</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>143</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>146</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>149</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>152</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>155</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Skybox.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Skybox::skyMesh" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Skybox::{ctor}</FUNCTION>
+    <DECORATED>??0Skybox@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Skybox::skyMesh</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Skybox.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Skybox::textureId" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Skybox::{ctor}</FUNCTION>
+    <DECORATED>??0Skybox@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Skybox::textureId</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Skybox.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Skybox::uniformView" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Skybox::{ctor}</FUNCTION>
+    <DECORATED>??0Skybox@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Skybox::uniformView</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Skybox.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Skybox::skyShader" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Skybox::{ctor}</FUNCTION>
+    <DECORATED>??0Skybox@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Skybox::skyShader</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Skybox.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Skybox::uniformProjection" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Skybox::{ctor}</FUNCTION>
+    <DECORATED>??0Skybox@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Skybox::uniformProjection</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Skybox.cpp</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Skybox::skyMesh" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Skybox::{ctor}</FUNCTION>
+    <DECORATED>??0Skybox@@QEAA@V?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Skybox::skyMesh</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::mainWindow" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::mainWindow</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::bufferWidth" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::bufferWidth</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::bufferHeight" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::bufferHeight</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::lastX" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::lastX</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::lastY" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::lastY</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::xChange" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::xChange</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::yChange" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::yChange</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::muevey" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::muevey</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::abrirCerrarPuerta" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::abrirCerrarPuerta</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::mouseFirstMoved" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::mouseFirstMoved</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::mainWindow" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@HH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::mainWindow</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::bufferWidth" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@HH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::bufferWidth</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::bufferHeight" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@HH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::bufferHeight</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::lastX" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@HH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::lastX</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::lastY" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@HH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::lastY</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::xChange" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@HH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::xChange</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::yChange" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@HH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::yChange</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Window.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Window::mouseFirstMoved" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Window::{ctor}</FUNCTION>
+    <DECORATED>??0Window@@QEAA@HH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Window::mouseFirstMoved</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

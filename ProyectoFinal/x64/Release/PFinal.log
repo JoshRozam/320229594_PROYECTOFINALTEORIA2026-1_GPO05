@@ -1,0 +1,23 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: El directorio intermedio (x64\Release\) contiene archivos compartidos de otro proyecto (E09-320229594.vcxproj, P08-320229594.vcxproj, P09-320229594.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  PFinal.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "PFinal.cpp")
+  
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "PFinal.cpp")
+  
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\PFinal.cpp(173,24): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\PFinal.cpp(314,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\PFinal.cpp(640,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\PFinal.cpp(642,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\PFinal.cpp(893,27): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\PFinal.cpp(906,21): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\PFinal.cpp(911,21): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\PFinal.cpp(916,22): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\PFinal.cpp(920,28): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Generando código
+  1 of 977 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  PFinal.vcxproj -> C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\x64\Release\PFinal.exe

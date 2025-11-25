@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Model.cpp</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6271</DEFECTCODE>
+    <DESCRIPTION>Argumento adicional pasado a 'printf'.</DESCRIPTION>
+    <FUNCTION>Model::LoadModel</FUNCTION>
+    <DECORATED>?LoadModel@Model@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

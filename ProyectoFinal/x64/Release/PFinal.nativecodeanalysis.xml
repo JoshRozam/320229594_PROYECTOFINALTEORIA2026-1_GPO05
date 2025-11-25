@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>6963</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>La función usa '35036' bytes de pila.  Considere la posibilidad de mover algunos datos al montón.</DESCRIPTION>
+    <FUNCTION>stbi__load_gif_main</FUNCTION>
+    <DECORATED>?stbi__load_gif_main@@YAPEAXPEAUstbi__context@@PEAPEAHPEAH222H@Z</DECORATED>
+    <FUNCLINE>6963</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>7048</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>La función usa '34980' bytes de pila.  Considere la posibilidad de mover algunos datos al montón.</DESCRIPTION>
+    <FUNCTION>stbi__gif_load</FUNCTION>
+    <DECORATED>?stbi__gif_load@@YAPEAXPEAUstbi__context@@PEAH11HPEAUstbi__result_info@@@Z</DECORATED>
+    <FUNCLINE>7048</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>definition.h</FILENAME>
+      <LINE>18</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "_VertexColor::color" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>_VertexColor::{ctor}</FUNCTION>
+    <DECORATED>??0_VertexColor@@QEAA@XZ</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>_VertexColor::color</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>definition.h</FILENAME>
+      <LINE>18</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "_VertexColor::position" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>_VertexColor::{ctor}</FUNCTION>
+    <DECORATED>??0_VertexColor@@QEAA@XZ</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>_VertexColor::position</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

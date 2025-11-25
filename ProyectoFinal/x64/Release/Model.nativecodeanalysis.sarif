@@ -1,0 +1,340 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6271",
+          "message": {
+            "text": "Argumento adicional pasado a 'printf'."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/model.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Model.cpp"
+                },
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 3,
+                  "endLine": 17,
+                  "endColumn": 88
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Model::LoadModel",
+                  "decoratedName": "?LoadModel@Model@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "MSVC Code Analysis",
+          "version": "14.44.35220.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/model.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "72232d443b5354fae424cca37fda17e74f1d04e35b5c58756db4d4591c03ae47"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/model.h"
+          },
+          "hashes": {
+            "sha-256": "70596057b22a9c6c497f305fa1f9949a0f86bede0d3afcdbe2cd09c1d8268faa"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/importer.hpp"
+          },
+          "hashes": {
+            "sha-256": "07f0734461522849110b74b75a3c450c6abfa6255704d02e1adeb9ded73c3684"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/types.h"
+          },
+          "hashes": {
+            "sha-256": "4641e2b70601119b71f08b93c5ecf5a81fa29d2aed981663fd638419418ba4da"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/defs.h"
+          },
+          "hashes": {
+            "sha-256": "0735f13c7d801ab11d192daaa3f310e0fcce4d6d54353fc70846346a8701cfa6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/config.h"
+          },
+          "hashes": {
+            "sha-256": "a7d77c192d8750ce96a3e1a9179f9f0466860a3c84c633decef1b7ba99673b49"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/vector2.h"
+          },
+          "hashes": {
+            "sha-256": "cd8c0a804a9b4dc3268cd9df6b3793a372909dd605e3385f3e7de7e539270369"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/vector3.h"
+          },
+          "hashes": {
+            "sha-256": "f7550dac36b39407e3d7565032b8c9d003e2afd27ec7a8c8c7147319d08856ed"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/color4.h"
+          },
+          "hashes": {
+            "sha-256": "182ea7fec233341d68bfff2172fe674fac31d0e22faa0b1571e1885ae2eb9395"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/matrix3x3.h"
+          },
+          "hashes": {
+            "sha-256": "1e9e6980cc58becf99316e4fa0ac94a206c9b05f62a835f594cd9bd2883e0467"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/matrix4x4.h"
+          },
+          "hashes": {
+            "sha-256": "e1ebd43cd7bc2f9a5ce82fcb45b495638bdb07166a81b4422b256987882d6483"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/quaternion.h"
+          },
+          "hashes": {
+            "sha-256": "c6ea0abd4f68b01c866dc165e9deff50f8244017420f70f7f005c9840f4a415a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/vector2.inl"
+          },
+          "hashes": {
+            "sha-256": "ea4dba1ef0d7fded9571a7daf4e3a0e306da0cdae26cd8e7298fd9140cfbb99f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/vector3.inl"
+          },
+          "hashes": {
+            "sha-256": "429d14b3e713f35fa253fafa0f292ad1433d091033d27b1669e9c88baac19a2c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/color4.inl"
+          },
+          "hashes": {
+            "sha-256": "82aff04a22822c60e261724c79b38f2b951d823b24c41f586a7c4952c718a83e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/matrix3x3.inl"
+          },
+          "hashes": {
+            "sha-256": "df32c7fddbdf97216636459ccffbd9d08e4742d0dc73b29b22c4a91278b964f9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/matrix4x4.inl"
+          },
+          "hashes": {
+            "sha-256": "c3c369da3165475127c963016fdc01149ec08864adc2a417f594268f4ecadef4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/mathfunctions.h"
+          },
+          "hashes": {
+            "sha-256": "ba1caa4b500044dbdae8195e9a52b6b7f9f493993801691e2c7a6bcef118fb9d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/quaternion.inl"
+          },
+          "hashes": {
+            "sha-256": "88e094e1fb5e95ef5f716e21b2f6822965d50ded608698c87b7bca5eb116caf2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/scene.h"
+          },
+          "hashes": {
+            "sha-256": "c178b87cc461c097d6ce68a7f05b6aa38dab24d7c36dab21435bb879645cb757"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/texture.h"
+          },
+          "hashes": {
+            "sha-256": "d181aecd9d45f403ecfff6fef01b153b9bf836cc41eeb5e32ab55ba59ada6f71"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/compiler/pushpack1.h"
+          },
+          "hashes": {
+            "sha-256": "d8df458c394c3afa149403914e03c86dcb6e1dca1af4d366b52541f61d0dd116"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/compiler/poppack1.h"
+          },
+          "hashes": {
+            "sha-256": "0dccb098bbdd32dfcd67a0029d9f48133a38586b91c314b9045366028721537b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/mesh.h"
+          },
+          "hashes": {
+            "sha-256": "bf59d7673205ff9c2816312ff3b1a478c7d832b13289a6b33acdad6caa66eb28"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/aabb.h"
+          },
+          "hashes": {
+            "sha-256": "5b2069504c27543db5c018d1a6fef1146cdcba2188b5cf03889c53367645aebe"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/light.h"
+          },
+          "hashes": {
+            "sha-256": "5ca3a7b0e47ce9b76db6c1cfe49c46b9f74104afa0fa3de1fa63eccdc51cd310"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/camera.h"
+          },
+          "hashes": {
+            "sha-256": "b6916c8c3cf652042cce073221e93280b3d272937bb0e56ec54d4df620e6f117"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/material.h"
+          },
+          "hashes": {
+            "sha-256": "a1479ee7f0e60442c5fd68f3265aba0e9f61c899c725a6d22fa4e3a5cd256866"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/material.inl"
+          },
+          "hashes": {
+            "sha-256": "0cbfd12ebe802b40bde4a054938e8969874e5ac8150a00dbf7e7670027e6b37d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/anim.h"
+          },
+          "hashes": {
+            "sha-256": "25bdb9eb950eec24aa5eb718af24ef70e8c7f6c0cb88d4d55d99635291a7f0e0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/metadata.h"
+          },
+          "hashes": {
+            "sha-256": "ebf4394148661463b926a524ce5395aee2c6bf34559381007d081282fbeb27d6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/assimp/postprocess.h"
+          },
+          "hashes": {
+            "sha-256": "12cd8cff4c34effc9f766c5b6a91345d1b0e1851f1f82034c33d512ccceb1792"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/mesh.h"
+          },
+          "hashes": {
+            "sha-256": "9ea8e206a34bb586690a152102ee57b3b687c467e75d443212aa79f8334b47aa"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/glew.h"
+          },
+          "hashes": {
+            "sha-256": "1a2d50dc00a69940838cb3b5413cf7a7ac3cee8078672f27ffbfa2d3b88ad344"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/texture.h"
+          },
+          "hashes": {
+            "sha-256": "f019d0a20402a11933174d1e3bf94c686b700ad512d68f072ab6887440e8fbb4"
+          }
+        }
+      ]
+    }
+  ]
+}

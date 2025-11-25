@@ -1,0 +1,637 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::mainWindow\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::mainWindow"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::bufferWidth\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::bufferWidth"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::bufferHeight\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::bufferHeight"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::lastX\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::lastX"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::lastY\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::lastY"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::xChange\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::xChange"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::yChange\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::yChange"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::muevey\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::muevey"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::abrirCerrarPuerta\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::abrirCerrarPuerta"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::mouseFirstMoved\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::mouseFirstMoved"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::mainWindow\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@HH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::mainWindow"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::bufferWidth\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@HH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::bufferWidth"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::bufferHeight\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@HH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::bufferHeight"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::lastX\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@HH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::lastX"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::lastY\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@HH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::lastY"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::xChange\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@HH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::xChange"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::yChange\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@HH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::yChange"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "La variable \"Window::mouseFirstMoved\" no está inicializada. Siempre debe inicializarse una variable miembro (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Window.cpp"
+                },
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Window::{ctor}",
+                  "decoratedName": "??0Window@@QEAA@HH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Window::mouseFirstMoved"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "MSVC Code Analysis",
+          "version": "14.44.35220.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "b59360672c8301abbfbadd07158b885c6781a084748e3d8d9dedca22533c42fa"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/window.h"
+          },
+          "hashes": {
+            "sha-256": "73e8751b6aaf22a71f959e83810a28545c3cc1ce43129b1365263efe72fe1d17"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/glew.h"
+          },
+          "hashes": {
+            "sha-256": "1a2d50dc00a69940838cb3b5413cf7a7ac3cee8078672f27ffbfa2d3b88ad344"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jack1/onedrive/desktop/7mo semestre/lab. computación gráfica e interacción humano-computadora/prácticas/practicas/pfinal/include/glfw3.h"
+          },
+          "hashes": {
+            "sha-256": "aa370985f6b493bbe0358a36ab49f5780a6397c0209c6d98a62143dea595b73c"
+          }
+        }
+      ]
+    }
+  ]
+}

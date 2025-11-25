@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformSpotLight" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformSpotLight</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformSpecularIntensity" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformSpecularIntensity</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformDirectionalLight" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformDirectionalLight</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformPointLight" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformPointLight</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformSpotLightCount" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformSpotLightCount</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformShininess" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformShininess</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformPointLightCount" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformPointLightCount</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformView" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformView</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Shader::uniformEyePosition" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Shader::uniformEyePosition</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>103</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>106</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>109</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>112</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>115</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>118</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>121</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>131</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>134</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>137</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>143</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>146</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>149</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>152</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\</FILEPATH>
+      <FILENAME>Shader_light.cpp</FILENAME>
+      <LINE>155</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>El tamaño no coincide: 'unsigned __int64' se ha pasado como _Param_(4) cuando 'int' es necesario para llamar a 'snprintf'. </DESCRIPTION>
+    <FUNCTION>Shader::CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@Shader@@AEAAXPEBD0@Z</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

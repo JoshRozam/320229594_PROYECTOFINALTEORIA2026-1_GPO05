@@ -1,0 +1,54 @@
+﻿  Camera.cpp
+  DirectionalLight.cpp
+  Light.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Camera.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Camera.cpp")
+  
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Light.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "DirectionalLight.cpp")
+  
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Light.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Light.cpp")
+  
+  Material.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Material.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Material.cpp")
+  
+  Mesh_tn.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Mesh.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Mesh_tn.cpp")
+  
+  Model.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Model.h(4,9): error C1083: No se puede abrir el archivo incluir: 'assimp/Importer.hpp': No such file or directory
+  (compilando archivo de origen "Model.cpp")
+  
+  PFinal.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\PFinal.cpp(16,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  PointLight.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Light.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "PointLight.cpp")
+  
+  Shader_light.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Shader_light.h(7,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Shader_light.cpp")
+  
+  Skybox.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Skybox.h(6,9): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Skybox.cpp")
+  
+  Sphere.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\definition.h(11,10): error C1083: No se puede abrir el archivo incluir: 'glm.hpp': No such file or directory
+  (compilando archivo de origen "Sphere.cpp")
+  
+  SpotLight.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Light.h(3,10): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "SpotLight.cpp")
+  
+  Texture.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Texture.h(2,9): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Texture.cpp")
+  
+  Window.cpp
+C:\Users\jack1\OneDrive\Desktop\7mo Semestre\Lab. Computación Gráfica e Interacción Humano-Computadora\Prácticas\practicas\PFinal\Window.h(3,9): error C1083: No se puede abrir el archivo incluir: 'glew.h': No such file or directory
+  (compilando archivo de origen "Window.cpp")
+  
