@@ -1,0 +1,112 @@
+# Blender 5.0.0 MTL File: 'CASAUNSHOWMAS.blend'
+# www.blender.org
+
+newmtl blinn1
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Textures/escaleraLateral.png
+
+newmtl blinn5
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.903846
+illum 6
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Textures/cristalVentanas.png
+
+newmtl lambert10
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Textures/chimenea.png
+
+newmtl lambert12
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Textures/Casa.png
+
+newmtl lambert25
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Textures/Barandales.png
+
+newmtl lambert28
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Textures/Casa.png
+
+newmtl lambert29
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.190100 0.334400 0.279400
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl lambert30
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Textures/techos.png
+
+newmtl lambert35
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Textures/PuntaChimenea.png
+
+newmtl lambert5
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Textures/ventanas.png
+
+newmtl lambert6
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/jack1/OneDrive/Desktop/7mo Semestre/Lab. Computación Gráfica e Interacción Humano-Computadora/Prácticas/practicas/PFinal/Textures/puertaCasa.png
